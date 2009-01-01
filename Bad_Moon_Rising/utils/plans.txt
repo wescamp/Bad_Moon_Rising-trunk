@@ -1,8 +1,0 @@
-World Map
-	{OFFROAD ...} - store the unit positions on World Map, pass the
-variables for determining the level, player id, foe type, next_scenario
-		{SKIRMISH_SCENARIO ...} - pass along the foe type and level,
-utilize the player id and next_scenario values to establish a specific
-scenario
-			{SKIRMISH_ENEMIES ...} - The [switch] trees for
-establishing skirmish enemies
